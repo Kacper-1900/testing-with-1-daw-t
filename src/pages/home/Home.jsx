@@ -1,7 +1,8 @@
 function Home() {
     return (
         <>
-            <h1>Home Page</h1>
+        <Header></Header>
+        <h1>Home Page</h1>
         </>
     )
 }
