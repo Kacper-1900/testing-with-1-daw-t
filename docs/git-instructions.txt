@@ -22,3 +22,9 @@
 ----------------
 1. Pasar todo al stage "git add ."
 2. Crear commit "git commit -m "feat header component"
+
+---------------------------------
+-- descargar el ultimo cambio --
+--------------------------------
+1. git pull origin main
+2. Puede ocurrir que hay cambios locales que no han subido al repositorio. Para descartarlos "git stash"
